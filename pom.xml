@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.decagon</groupId>
-    <artifactId>Safari-Web-Store</artifactId>
+    <artifactId>Phila-Web-Store</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Safari-Web-Store</name>
-    <description>Safari-Web-Store</description>
+    <name>Phila-Web-Store</name>
+    <description>Phila-Web-Store</description>
     <properties>
         <java.version>11</java.version>
     </properties>
@@ -193,7 +193,7 @@
     </dependencies>
 
     <build>
-        <finalName>safari-web-store</finalName>
+        <finalName>Phila-web-store</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
