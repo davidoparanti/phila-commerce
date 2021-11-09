@@ -1,3 +1,3 @@
 FROM adoptopenjdk/openjdk11:alpine-jre
-ADD target/safari-web-store.jar safari-web-store.jar
-ENTRYPOINT ["java", "-jar", "safari-web-store.jar"]
+ADD target/phila-web-store.jar phila-web-store.jar
+ENTRYPOINT ["java", "-jar", "phila-web-store.jar"]
